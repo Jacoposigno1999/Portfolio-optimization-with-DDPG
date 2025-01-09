@@ -4,5 +4,5 @@
  Specifically, we aim to develop and evaluate a DDPG-based agent capable of autonomously managing an investment portfolio in a financial market environment.
 
  **Note**: 
- - The 2 codes differ only in the way the reward is calculated (in is calculated using with benchmark the SP500 in .. is calculated using as benchmark a portfolio containing the same stocks as the managed portfolio but keeping the weights constant
+ - The 2 codes differ only in the way the reward is calculated (in Baseline_reward is calculated using the SP500 as benchmark in Relative_reward is calculated using as benchmark a portfolio containing the same stocks as the managed portfolio but keeping the weights constant
  - Code should be better organized into different python files 
